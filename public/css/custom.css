@@ -1,0 +1,48 @@
+.form-group{
+    width: 100%;
+    display: inline-block;
+}
+.first_element
+{
+    margin-top: 10px;
+}
+.alert_st
+{
+    margin-top: 10px;
+}
+.admin-img
+{
+    width: 100%;
+}
+.edit_btn
+{
+    float: right;
+}
+.cntrl_btn
+{
+    float: right;
+}
+.edit_img{
+    float: right;
+}
+.delete_btn
+{
+    float: right;
+    margin-right: 10px;
+}
+.admin_index_img
+{
+    width: 100%;
+}
+
+.lp_select
+{
+    display: inline-flex;
+}
+.filter_btn{
+    margin-left: 10px;
+}
+.st_news
+{
+    display: flex;
+}

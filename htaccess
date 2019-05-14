@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(www\.)?server\.zzz\.com\.us$ [NC]
+RewriteCond %{REQUEST_FILENAME} !/public/
+RewriteRule ^(.*)$ /landing.site.loc/public/$1 [L]
